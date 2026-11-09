@@ -9,6 +9,9 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "faker>=40.37.0",
+    "pandas>=3.1.1",
+    "reportlab>=5.1.0",
+    "trino>=0.340.0",
 ]
 
 [project.scripts]
